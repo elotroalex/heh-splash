@@ -1,0 +1,12 @@
+# Site settings
+title: Harlem Education History Project
+email: harlemedhistory@tc.columbia.edu
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://harlemeducationhistory.library.columbia.edu/" # the base hostname & protocol for your site
+
+twitter_username: eduharlem
+github_username:
+
+# Build settings
+markdown: kramdown
