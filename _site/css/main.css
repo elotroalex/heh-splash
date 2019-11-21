@@ -54,6 +54,25 @@ aside {
 .no-padding {
   padding: 0; }
 
+footer {
+  padding-top: 10px;
+  width: 100%;
+  box-shadow: 0px 0px 25px #cfcfcf;
+  color: #9B9B9B;
+  background: #F3F3F3; }
+
+div.fixed-footer {
+  display: block;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 3rem 0rem; }
+
+div.fixed-footer img {
+  display: inline-block;
+  padding-right: 2rem; }
+
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.5);
